@@ -1,0 +1,22 @@
+16:51:57.040 [main] INFO  c.w.j.JwtSpringbootApplication - [logStarting,55] - Starting JwtSpringbootApplication using Java 1.8.0_381 on LAPTOP with PID 2656 (D:\CS\Code\authentication\demo\target\classes started by K in D:\CS\Code\authentication\demo)
+16:51:57.042 [main] INFO  c.w.j.JwtSpringbootApplication - [logStartupProfileInfo,645] - No active profile set, falling back to 1 default profile: "default"
+16:51:57.550 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8088"]
+16:51:57.551 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+16:51:57.551 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.68]
+16:51:57.626 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+16:51:58.616 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8088"]
+16:51:58.630 [main] INFO  c.w.j.JwtSpringbootApplication - [logStarted,61] - Started JwtSpringbootApplication in 1.811 seconds (JVM running for 2.575)
+16:51:58.632 [main] INFO  c.w.j.JwtSpringbootApplication - [main,15] - 
+
+
+²©Ö÷²©¿ÍµØÖ·£ºhttps://blog.csdn.net/weixin_51603038
+
+
+
+16:52:13.257 [http-nio-8088-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+16:52:13.360 [http-nio-8088-exec-1] INFO  c.z.h.HikariDataSource - [getConnection,110] - HikariPool-1 - Starting...
+16:52:27.879 [http-nio-8088-exec-3] INFO  c.z.h.HikariDataSource - [getConnection,110] - HikariPool-1 - Starting...
+16:52:28.901 [http-nio-8088-exec-4] INFO  c.z.h.HikariDataSource - [getConnection,110] - HikariPool-1 - Starting...
+16:52:47.407 [http-nio-8088-exec-6] INFO  c.z.h.HikariDataSource - [getConnection,110] - HikariPool-1 - Starting...
+16:52:52.629 [http-nio-8088-exec-2] INFO  c.z.h.HikariDataSource - [getConnection,110] - HikariPool-1 - Starting...
+16:53:56.544 [http-nio-8088-exec-9] INFO  c.z.h.HikariDataSource - [getConnection,110] - HikariPool-1 - Starting...

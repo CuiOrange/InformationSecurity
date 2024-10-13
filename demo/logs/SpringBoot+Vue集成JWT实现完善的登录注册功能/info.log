@@ -1,0 +1,73 @@
+08:31:36.396 [main] INFO  c.w.j.JwtSpringbootApplication - [logStarting,55] - Starting JwtSpringbootApplication using Java 1.8.0_381 on LAPTOP with PID 28200 (D:\CS\Code\authentication\demo\target\classes started by K in D:\CS\Code\authentication\demo)
+08:31:36.399 [main] INFO  c.w.j.JwtSpringbootApplication - [logStartupProfileInfo,645] - No active profile set, falling back to 1 default profile: "default"
+08:31:37.026 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8088"]
+08:31:37.026 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+08:31:37.026 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.68]
+08:31:37.106 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+08:31:38.064 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8088"]
+08:31:38.076 [main] INFO  c.w.j.JwtSpringbootApplication - [logStarted,61] - Started JwtSpringbootApplication in 1.958 seconds (JVM running for 2.8)
+08:32:28.541 [http-nio-8088-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+08:47:01.499 [main] INFO  c.w.j.JwtSpringbootApplication - [logStarting,55] - Starting JwtSpringbootApplication using Java 1.8.0_381 on LAPTOP with PID 16872 (D:\CS\Code\authentication\demo\target\classes started by K in D:\CS\Code\authentication\demo)
+08:47:01.501 [main] INFO  c.w.j.JwtSpringbootApplication - [logStartupProfileInfo,645] - No active profile set, falling back to 1 default profile: "default"
+08:47:02.048 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8088"]
+08:47:02.048 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+08:47:02.048 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.68]
+08:47:02.132 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+08:47:03.019 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8088"]
+08:47:03.041 [main] INFO  c.w.j.JwtSpringbootApplication - [logStarted,61] - Started JwtSpringbootApplication in 1.812 seconds (JVM running for 2.713)
+08:47:12.900 [http-nio-8088-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+08:55:21.808 [main] INFO  c.w.j.JwtSpringbootApplication - [logStarting,55] - Starting JwtSpringbootApplication using Java 1.8.0_381 on LAPTOP with PID 28376 (D:\CS\Code\authentication\demo\target\classes started by K in D:\CS\Code\authentication\demo)
+08:55:21.810 [main] INFO  c.w.j.JwtSpringbootApplication - [logStartupProfileInfo,645] - No active profile set, falling back to 1 default profile: "default"
+08:55:22.320 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8088"]
+08:55:22.321 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+08:55:22.321 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.68]
+08:55:22.418 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+08:55:23.406 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8088"]
+08:55:23.419 [main] INFO  c.w.j.JwtSpringbootApplication - [logStarted,61] - Started JwtSpringbootApplication in 1.864 seconds (JVM running for 2.742)
+08:55:48.834 [http-nio-8088-exec-7] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+08:59:08.628 [main] INFO  c.w.j.JwtSpringbootApplication - [logStarting,55] - Starting JwtSpringbootApplication using Java 1.8.0_381 on LAPTOP with PID 21476 (D:\CS\Code\authentication\demo\target\classes started by K in D:\CS\Code\authentication\demo)
+08:59:08.630 [main] INFO  c.w.j.JwtSpringbootApplication - [logStartupProfileInfo,645] - No active profile set, falling back to 1 default profile: "default"
+08:59:09.208 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8088"]
+08:59:09.208 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+08:59:09.208 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.68]
+08:59:09.299 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+08:59:10.275 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8088"]
+08:59:10.288 [main] INFO  c.w.j.JwtSpringbootApplication - [logStarted,61] - Started JwtSpringbootApplication in 1.884 seconds (JVM running for 2.631)
+08:59:23.855 [http-nio-8088-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+09:07:50.210 [main] INFO  c.w.j.JwtSpringbootApplication - [logStarting,55] - Starting JwtSpringbootApplication using Java 1.8.0_381 on LAPTOP with PID 32156 (D:\CS\Code\authentication\demo\target\classes started by K in D:\CS\Code\authentication\demo)
+09:07:50.212 [main] INFO  c.w.j.JwtSpringbootApplication - [logStartupProfileInfo,645] - No active profile set, falling back to 1 default profile: "default"
+09:07:50.793 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8088"]
+09:07:50.793 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+09:07:50.793 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.68]
+09:07:50.873 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+09:07:51.825 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8088"]
+09:07:51.837 [main] INFO  c.w.j.JwtSpringbootApplication - [logStarted,61] - Started JwtSpringbootApplication in 1.851 seconds (JVM running for 2.585)
+09:12:10.103 [http-nio-8088-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+09:12:10.291 [http-nio-8088-exec-2] INFO  c.z.h.HikariDataSource - [getConnection,110] - HikariPool-1 - Starting...
+09:12:12.125 [http-nio-8088-exec-3] INFO  c.z.h.HikariDataSource - [getConnection,110] - HikariPool-1 - Starting...
+09:12:13.142 [http-nio-8088-exec-4] INFO  c.z.h.HikariDataSource - [getConnection,110] - HikariPool-1 - Starting...
+09:13:58.386 [http-nio-8088-exec-8] INFO  c.z.h.HikariDataSource - [getConnection,110] - HikariPool-1 - Starting...
+09:15:41.951 [main] INFO  c.w.j.JwtSpringbootApplication - [logStarting,55] - Starting JwtSpringbootApplication using Java 1.8.0_381 on LAPTOP with PID 4520 (D:\CS\Code\authentication\demo\target\classes started by K in D:\CS\Code\authentication\demo)
+09:15:41.953 [main] INFO  c.w.j.JwtSpringbootApplication - [logStartupProfileInfo,645] - No active profile set, falling back to 1 default profile: "default"
+09:15:42.518 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8088"]
+09:15:42.519 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+09:15:42.519 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.68]
+09:15:42.627 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+09:15:43.604 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8088"]
+09:15:43.616 [main] INFO  c.w.j.JwtSpringbootApplication - [logStarted,61] - Started JwtSpringbootApplication in 1.924 seconds (JVM running for 2.821)
+09:17:54.911 [http-nio-8088-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+09:17:55.004 [http-nio-8088-exec-1] INFO  c.z.h.HikariDataSource - [getConnection,110] - HikariPool-1 - Starting...
+09:18:06.981 [http-nio-8088-exec-3] INFO  c.z.h.HikariDataSource - [getConnection,110] - HikariPool-1 - Starting...
+09:19:02.485 [main] INFO  c.w.j.JwtSpringbootApplication - [logStarting,55] - Starting JwtSpringbootApplication using Java 1.8.0_381 on LAPTOP with PID 21708 (D:\CS\Code\authentication\demo\target\classes started by K in D:\CS\Code\authentication\demo)
+09:19:02.487 [main] INFO  c.w.j.JwtSpringbootApplication - [logStartupProfileInfo,645] - No active profile set, falling back to 1 default profile: "default"
+09:19:03.077 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8088"]
+09:19:03.077 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+09:19:03.077 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.68]
+09:19:03.192 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+09:19:04.235 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8088"]
+09:19:04.249 [main] INFO  c.w.j.JwtSpringbootApplication - [logStarted,61] - Started JwtSpringbootApplication in 2.068 seconds (JVM running for 2.897)
+09:19:05.096 [http-nio-8088-exec-3] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+09:19:05.197 [http-nio-8088-exec-3] INFO  c.z.h.HikariDataSource - [getConnection,110] - HikariPool-1 - Starting...
+09:19:05.675 [http-nio-8088-exec-3] INFO  c.z.h.HikariDataSource - [getConnection,123] - HikariPool-1 - Start completed.
+10:32:33.398 [SpringApplicationShutdownHook] INFO  c.z.h.HikariDataSource - [close,350] - HikariPool-1 - Shutdown initiated...
+10:32:33.409 [SpringApplicationShutdownHook] INFO  c.z.h.HikariDataSource - [close,352] - HikariPool-1 - Shutdown completed.

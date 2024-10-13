@@ -1,0 +1,72 @@
+08:49:56.001 [main] INFO  c.w.j.JwtSpringbootApplication - [logStarting,55] - Starting JwtSpringbootApplication using Java 1.8.0_381 on LAPTOP with PID 33436 (D:\CS\Code\authentication\demo\target\classes started by K in D:\CS\Code\authentication\demo)
+08:49:56.004 [main] INFO  c.w.j.JwtSpringbootApplication - [logStartupProfileInfo,645] - No active profile set, falling back to 1 default profile: "default"
+08:49:57.020 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8088"]
+08:49:57.020 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+08:49:57.021 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.68]
+08:49:57.184 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+08:49:58.604 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8088"]
+08:49:58.632 [main] INFO  c.w.j.JwtSpringbootApplication - [logStarted,61] - Started JwtSpringbootApplication in 2.984 seconds (JVM running for 4.222)
+08:49:58.635 [main] INFO  c.w.j.JwtSpringbootApplication - [main,15] - 
+
+
+博主博客地址：https://blog.csdn.net/weixin_51603038
+
+
+
+08:50:52.191 [http-nio-8088-exec-2] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+08:50:52.373 [http-nio-8088-exec-1] INFO  c.z.h.HikariDataSource - [getConnection,110] - HikariPool-1 - Starting...
+08:51:30.392 [main] INFO  c.w.j.JwtSpringbootApplication - [logStarting,55] - Starting JwtSpringbootApplication using Java 1.8.0_381 on LAPTOP with PID 23888 (D:\CS\Code\authentication\demo\target\classes started by K in D:\CS\Code\authentication\demo)
+08:51:30.394 [main] INFO  c.w.j.JwtSpringbootApplication - [logStartupProfileInfo,645] - No active profile set, falling back to 1 default profile: "default"
+08:51:30.923 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8088"]
+08:51:30.923 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+08:51:30.923 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.68]
+08:51:31.024 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+08:51:32.031 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8088"]
+08:51:32.044 [main] INFO  c.w.j.JwtSpringbootApplication - [logStarted,61] - Started JwtSpringbootApplication in 1.906 seconds (JVM running for 2.739)
+08:51:32.045 [main] INFO  c.w.j.JwtSpringbootApplication - [main,15] - 
+
+
+博主博客地址：https://blog.csdn.net/weixin_51603038
+
+
+
+08:51:34.949 [http-nio-8088-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+08:51:35.031 [http-nio-8088-exec-1] INFO  c.z.h.HikariDataSource - [getConnection,110] - HikariPool-1 - Starting...
+08:54:21.390 [main] INFO  c.w.j.JwtSpringbootApplication - [logStarting,55] - Starting JwtSpringbootApplication using Java 1.8.0_381 on LAPTOP with PID 34388 (D:\CS\Code\authentication\demo\target\classes started by K in D:\CS\Code\authentication\demo)
+08:54:21.393 [main] INFO  c.w.j.JwtSpringbootApplication - [logStartupProfileInfo,645] - No active profile set, falling back to 1 default profile: "default"
+08:54:21.909 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8088"]
+08:54:21.910 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+08:54:21.910 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.68]
+08:54:21.991 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+08:54:22.906 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8088"]
+08:54:22.918 [main] INFO  c.w.j.JwtSpringbootApplication - [logStarted,61] - Started JwtSpringbootApplication in 1.751 seconds (JVM running for 2.483)
+08:54:22.920 [main] INFO  c.w.j.JwtSpringbootApplication - [main,15] - 
+
+
+博主博客地址：https://blog.csdn.net/weixin_51603038
+
+
+
+08:54:29.965 [http-nio-8088-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+08:54:30.057 [http-nio-8088-exec-1] INFO  c.z.h.HikariDataSource - [getConnection,110] - HikariPool-1 - Starting...
+08:54:30.539 [http-nio-8088-exec-1] INFO  c.z.h.HikariDataSource - [getConnection,123] - HikariPool-1 - Start completed.
+09:43:44.605 [SpringApplicationShutdownHook] INFO  c.z.h.HikariDataSource - [close,350] - HikariPool-1 - Shutdown initiated...
+09:43:44.627 [SpringApplicationShutdownHook] INFO  c.z.h.HikariDataSource - [close,352] - HikariPool-1 - Shutdown completed.
+09:43:49.376 [main] INFO  c.w.j.JwtSpringbootApplication - [logStarting,55] - Starting JwtSpringbootApplication using Java 1.8.0_381 on LAPTOP with PID 12624 (D:\CS\Code\authentication\demo\target\classes started by K in D:\CS\Code\authentication\demo)
+09:43:49.378 [main] INFO  c.w.j.JwtSpringbootApplication - [logStartupProfileInfo,645] - No active profile set, falling back to 1 default profile: "default"
+09:43:49.960 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8088"]
+09:43:49.960 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+09:43:49.960 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.68]
+09:43:50.040 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+09:43:50.956 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8088"]
+09:43:50.968 [main] INFO  c.w.j.JwtSpringbootApplication - [logStarted,61] - Started JwtSpringbootApplication in 1.823 seconds (JVM running for 2.542)
+09:43:50.969 [main] INFO  c.w.j.JwtSpringbootApplication - [main,15] - 
+
+
+博主博客地址：https://blog.csdn.net/weixin_51603038
+
+
+
+10:53:56.507 [http-nio-8088-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+10:53:56.683 [http-nio-8088-exec-8] INFO  c.z.h.HikariDataSource - [getConnection,110] - HikariPool-1 - Starting...
+10:53:57.528 [http-nio-8088-exec-8] INFO  c.z.h.HikariDataSource - [getConnection,123] - HikariPool-1 - Start completed.
